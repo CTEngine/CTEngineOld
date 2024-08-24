@@ -1,6 +1,6 @@
 #pragma once
 
-#ifdef HZ_PLATFORM_WINDOWS
+#ifdef CTE_PLATFORM_WINDOWS
 	#ifdef CTE_BUILD_DLL
 		#define CTEngine_API __declspec(dllexport)
 	#else
@@ -10,6 +10,4 @@
 	#error CTEngine only supports Windows!
 #endif
 
-
-
-
+	

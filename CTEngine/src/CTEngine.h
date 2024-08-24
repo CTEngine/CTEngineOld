@@ -1,11 +1,10 @@
 #pragma once
 
-// For use by CTEngine applications
+// For use by CTEngine Applications
 
-// #include <stdio.h>
+#include <stdio.h>
 #include "CTEngine/Application.h"
 
-
-// ---Entry Point----------------------------------
+// --Entry Point-------------------
 #include "CTEngine/EntryPoint.h"
-// ------------------------------------------------
+// --------------------------------

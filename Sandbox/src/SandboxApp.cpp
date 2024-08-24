@@ -1,4 +1,3 @@
-#pragma once
 #include <CTEngine.h>
 
 class Sandbox : public CTEngine::Application
